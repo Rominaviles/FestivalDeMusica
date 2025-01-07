@@ -13,7 +13,7 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas y tecnolog
 - Sass para la precompilación de estilos CSS.
 - Node.js para manejar dependencias.
 
-##Sitio Web
+## Sitio Web
 -El contenido se podre visualizar a traves del siguiente enlace:
    https://musicheckout.netlify.app
 
