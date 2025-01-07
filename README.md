@@ -14,6 +14,5 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas y tecnolog
 - Node.js para manejar dependencias.
 
 ## Sitio Web
--El contenido se podre visualizar a traves del siguiente enlace:
-   https://musicheckout.netlify.app
+El contenido se podre visualizar a traves del siguiente enlace: https://musicheckout.netlify.app
 
