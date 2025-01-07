@@ -1,0 +1,12 @@
+# Ignorar la carpeta build
+build/
+
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar los archivos de configuración de paquetes
+package.json
+package-lock.json
+
+# Ignorar el archivo gulpfile.js
+gulpfile.js
