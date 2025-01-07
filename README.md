@@ -7,9 +7,13 @@
 
 ## Tecnologías
 Este proyecto fue desarrollado utilizando las siguientes herramientas y tecnologías:
-- HTML5 y CSS3 para la estructura y estilos.
+- HTML y CSS para la estructura y estilos.
 - JavaScript para la interactividad.
 - Gulp para automatizar tareas de desarrollo (compilación de CSS/JS, optimización de imágenes, etc.).
 - Sass para la precompilación de estilos CSS.
 - Node.js para manejar dependencias.
+
+##Sitio Web
+-El contenido se podre visualizar a traves del siguiente enlace:
+   https://musicheckout.netlify.app
 
